@@ -1,0 +1,26 @@
+<!-- partial:index.partial.html -->
+<html>
+<head>
+    <title>rouaa的專題</title>
+</head>
+<body align="center">
+    <h1>期末專題--財經小幫手</h1>
+  <h2>專題簡介:</h2> 
+   <h3>這是一個財經查詢的專案檔可以利用股票代號查詢，</h3>
+<hr>
+
+  <video class="video-back" autoplay loop muted> <source src="https://rouaa2.github.io/5/dist/example.mp4"> </video>
+  <div class="container">
+        <h1>台灣股市指數查詢工具</h1>
+        <p>輸入年月（例如：<strong>2010M03</strong>），即可查詢股市加權指數、市值與公司數。</p>
+        <p>📥 點擊以下按鈕下載工具：</p>
+        <a class="download-btn" href="111.exe" download>下載 EXE 程式</a>
+        <p style="margin-top: 20px; font-size: 14px;">＊僅適用於 Windows 系統，請雙擊執行後依指示操作。</p>
+    </div>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
